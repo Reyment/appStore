@@ -20,7 +20,9 @@ My landing page is designed to provide visitors with an enticing introduction to
 ## Screenshots
 
 ![Screenshot 1](/client/public/1.png)
-*Screenshot 1: Overview of the landing page.*
+![Screenshot 2](/client/public/2.png)
+![Screenshot 3](/client/public/3.png)
+![Screenshot 4](/client/public/4.png)
 
 ## Technologies Used
 
