@@ -24,12 +24,12 @@ My landing page is designed to provide visitors with an enticing introduction to
 
 ## Technologies Used
 
-- **ReactJs
-- **TailwindCSS
-- **ExpressJs
-- **Node.js
-- **JWT
-- **Typescript
+- ReactJs
+- TailwindCSS
+- ExpressJs
+- Node.js
+- JWT
+- Typescript
 
 ## How to Install the MERN Project
 
