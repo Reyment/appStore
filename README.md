@@ -31,17 +31,6 @@ My landing page is designed to provide visitors with an enticing introduction to
 - JWT
 - Typescript
 
-## How to Install the MERN Project
-
-To run the food store app locally, follow these steps:
-
-### Prerequisites
-
-Ensure you have the following installed on your machine:
-- Node.js
-- npm or yarn
-- MongoDB
-
    
 ## Contributing
 
